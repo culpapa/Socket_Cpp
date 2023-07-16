@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/TCPFile/TCPFileClient/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TCPFileClientProject.dir\\main.cpp.obj -c C:\\C++\\Socket\\TCPFile\\TCPFileClient\\main.cpp",
+  "file": "C:/C++/Socket/TCPFile/TCPFileClient/main.cpp",
+  "output": "CMakeFiles/TCPFileClientProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/TCPFile/TCPFileClient/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TCPFileClientProject.dir\\TCPFileClient.cpp.obj -c C:\\C++\\Socket\\TCPFile\\TCPFileClient\\TCPFileClient.cpp",
+  "file": "C:/C++/Socket/TCPFile/TCPFileClient/TCPFileClient.cpp",
+  "output": "CMakeFiles/TCPFileClientProject.dir/TCPFileClient.cpp.obj"
+}
+]
