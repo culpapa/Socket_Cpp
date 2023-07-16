@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/TCPEcho/Client/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TCPEchoClientProjcet.dir\\main.cpp.obj -c C:\\C++\\Socket\\TCPEcho\\Client\\main.cpp",
+  "file": "C:/C++/Socket/TCPEcho/Client/main.cpp",
+  "output": "CMakeFiles/TCPEchoClientProjcet.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/TCPEcho/Client/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TCPEchoClientProjcet.dir\\TCPEchoClient.cpp.obj -c C:\\C++\\Socket\\TCPEcho\\Client\\TCPEchoClient.cpp",
+  "file": "C:/C++/Socket/TCPEcho/Client/TCPEchoClient.cpp",
+  "output": "CMakeFiles/TCPEchoClientProjcet.dir/TCPEchoClient.cpp.obj"
+}
+]

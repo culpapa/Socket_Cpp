@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/TCPEcho/Server/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TCPEchoServerProject.dir\\main.cpp.obj -c C:\\C++\\Socket\\TCPEcho\\Server\\main.cpp",
+  "file": "C:/C++/Socket/TCPEcho/Server/main.cpp",
+  "output": "CMakeFiles/TCPEchoServerProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/TCPEcho/Server/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TCPEchoServerProject.dir\\TCPEchoServer.cpp.obj -c C:\\C++\\Socket\\TCPEcho\\Server\\TCPEchoServer.cpp",
+  "file": "C:/C++/Socket/TCPEcho/Server/TCPEchoServer.cpp",
+  "output": "CMakeFiles/TCPEchoServerProject.dir/TCPEchoServer.cpp.obj"
+}
+]
