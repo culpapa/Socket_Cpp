@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/UDPEcho/Server/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\UDPEchoServerProject.dir\\main.cpp.obj -c C:\\C++\\Socket\\UDPEcho\\Server\\main.cpp",
+  "file": "C:/C++/Socket/UDPEcho/Server/main.cpp",
+  "output": "CMakeFiles/UDPEchoServerProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/UDPEcho/Server/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\UDPEchoServerProject.dir\\UDPEchoServer.cpp.obj -c C:\\C++\\Socket\\UDPEcho\\Server\\UDPEchoServer.cpp",
+  "file": "C:/C++/Socket/UDPEcho/Server/UDPEchoServer.cpp",
+  "output": "CMakeFiles/UDPEchoServerProject.dir/UDPEchoServer.cpp.obj"
+}
+]

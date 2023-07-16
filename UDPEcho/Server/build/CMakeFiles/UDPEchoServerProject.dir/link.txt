@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\UDPEchoServerProject.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\UDPEchoServerProject.dir/objects.a @CMakeFiles\UDPEchoServerProject.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\UDPEchoServerProject.dir/objects.a -Wl,--no-whole-archive -o UDPEchoServerProject.exe -Wl,--out-implib,libUDPEchoServerProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UDPEchoServerProject.dir\linkLibs.rsp

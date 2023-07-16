@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/UDPEcho/Client/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\UDPEchoClientProject.dir\\main.cpp.obj -c C:\\C++\\Socket\\UDPEcho\\Client\\main.cpp",
+  "file": "C:/C++/Socket/UDPEcho/Client/main.cpp",
+  "output": "CMakeFiles/UDPEchoClientProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/UDPEcho/Client/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\UDPEchoClientProject.dir\\UDPEchoClient.cpp.obj -c C:\\C++\\Socket\\UDPEcho\\Client\\UDPEchoClient.cpp",
+  "file": "C:/C++/Socket/UDPEcho/Client/UDPEchoClient.cpp",
+  "output": "CMakeFiles/UDPEchoClientProject.dir/UDPEchoClient.cpp.obj"
+}
+]
