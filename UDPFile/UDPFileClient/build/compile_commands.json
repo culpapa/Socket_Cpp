@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/UDPFile/UDPFileClient/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\UDPFileClientProject.dir\\main.cpp.obj -c C:\\C++\\Socket\\UDPFile\\UDPFileClient\\main.cpp",
+  "file": "C:/C++/Socket/UDPFile/UDPFileClient/main.cpp",
+  "output": "CMakeFiles/UDPFileClientProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/UDPFile/UDPFileClient/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\UDPFileClientProject.dir\\UDPFileClient.cpp.obj -c C:\\C++\\Socket\\UDPFile\\UDPFileClient\\UDPFileClient.cpp",
+  "file": "C:/C++/Socket/UDPFile/UDPFileClient/UDPFileClient.cpp",
+  "output": "CMakeFiles/UDPFileClientProject.dir/UDPFileClient.cpp.obj"
+}
+]
