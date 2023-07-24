@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\FileTransferClientProject.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\FileTransferClientProject.dir/objects.a @CMakeFiles\FileTransferClientProject.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\FileTransferClientProject.dir/objects.a -Wl,--no-whole-archive -o FileTransferClientProject.exe -Wl,--out-implib,libFileTransferClientProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FileTransferClientProject.dir\linkLibs.rsp

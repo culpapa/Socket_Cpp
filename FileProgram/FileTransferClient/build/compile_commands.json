@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/C++/Socket/FileProgram/FileTransferClient/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\FileTransferClientProject.dir\\main.cpp.obj -c C:\\C++\\Socket\\FileProgram\\FileTransferClient\\main.cpp",
+  "file": "C:/C++/Socket/FileProgram/FileTransferClient/main.cpp",
+  "output": "CMakeFiles/FileTransferClientProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++/Socket/FileProgram/FileTransferClient/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\FileTransferClientProject.dir\\FileTransferClient.cpp.obj -c C:\\C++\\Socket\\FileProgram\\FileTransferClient\\FileTransferClient.cpp",
+  "file": "C:/C++/Socket/FileProgram/FileTransferClient/FileTransferClient.cpp",
+  "output": "CMakeFiles/FileTransferClientProject.dir/FileTransferClient.cpp.obj"
+}
+]
