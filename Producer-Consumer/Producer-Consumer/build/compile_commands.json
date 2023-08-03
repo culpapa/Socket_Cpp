@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/C++/Producer-Consumer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Producer-ConsumerModel.dir\\main.cpp.obj -c C:\\C++\\Producer-Consumer\\main.cpp",
+  "file": "C:/C++/Producer-Consumer/main.cpp",
+  "output": "CMakeFiles/Producer-ConsumerModel.dir/main.cpp.obj"
+}
+]

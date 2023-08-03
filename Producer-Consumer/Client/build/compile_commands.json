@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/C++/Client/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\ClientProject.dir\\main.cpp.obj -c C:\\C++\\Client\\main.cpp",
+  "file": "C:/C++/Client/main.cpp",
+  "output": "CMakeFiles/ClientProject.dir/main.cpp.obj"
+}
+]
